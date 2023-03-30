@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto MongoDB Commerce 🍔 🍟
+
+# Contexto
+Nesse projeto foram realizados alguns desafios que exploraram conceitos de manipulação de dados com o MongoDB. Trabalhando com o banco de dados "commerce", que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas dos lanches.
+
+
+## Tecnologias usadas
+Back-end:
+> Desenvolvido usando: MongoDB
+  
